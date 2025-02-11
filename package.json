@@ -330,7 +330,7 @@
   "devDependencies": {
     "@types/glob": "^7.1.1",
     "@types/node": "^17.0.6",
-    "@types/vscode": "^1.51.0",
+    "@types/vscode": "^1.96.0",
     "@vscode/test-electron": "^2.0.1",
     "@wdio/cli": "^7.19.3",
     "@wdio/local-runner": "^7.19.3",
